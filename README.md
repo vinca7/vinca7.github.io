@@ -1,4 +1,5 @@
-# how to play cribbage
+#vinca7.github.io
+## how to play cribbage
 
 ## quick scoring guide
 
